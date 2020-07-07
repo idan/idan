@@ -26,7 +26,7 @@
 ```
 
 <details>
-<summary>What is this?</strong></summary>
+<summary>❓ What is this?</strong></summary>
 
 Once upon a time, there was a vibrant community of hackers that made technical demos. This [demoscene](https://en.wikipedia.org/wiki/Demoscene) had a culture of creating READMEs which (ab)used various ASCII codes to create works of art in an era before graphical displays.
 
